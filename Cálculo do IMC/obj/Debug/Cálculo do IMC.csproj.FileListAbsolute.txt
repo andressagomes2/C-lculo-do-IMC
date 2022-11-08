@@ -1,0 +1,11 @@
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\Cálculo do IMC\Cálculo do IMC\obj\Debug\Cálculo do IMC.csproj.AssemblyReference.cache
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\Cálculo do IMC\Cálculo do IMC\obj\Debug\Cálculo do IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\Cálculo do IMC\Cálculo do IMC\obj\Debug\Cálculo_do_IMC.IMC.resources
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\Cálculo do IMC\Cálculo do IMC\obj\Debug\Cálculo_do_IMC.Properties.Resources.resources
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\Cálculo do IMC\Cálculo do IMC\obj\Debug\Cálculo do IMC.csproj.GenerateResource.cache
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\Cálculo do IMC\Cálculo do IMC\obj\Debug\Cálculo do IMC.csproj.CoreCompileInputs.cache
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\Cálculo do IMC\Cálculo do IMC\bin\Debug\Cálculo do IMC.exe.config
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\Cálculo do IMC\Cálculo do IMC\bin\Debug\Cálculo do IMC.exe
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\Cálculo do IMC\Cálculo do IMC\bin\Debug\Cálculo do IMC.pdb
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\Cálculo do IMC\Cálculo do IMC\obj\Debug\Cálculo do IMC.exe
+C:\Users\andressa.ngomes\OneDrive - SENAC - SP\c #\Cálculo do IMC\Cálculo do IMC\obj\Debug\Cálculo do IMC.pdb
